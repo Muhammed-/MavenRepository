@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="9322" started-at="2020-11-02T06:03:35Z" finished-at="2020-11-02T06:03:45Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="9322" started-at="2020-11-02T06:03:35Z" finished-at="2020-11-02T06:03:45Z">
+      <class name="com.yaseenkhan.automation.Maven.MavenTest">
+        <test-method status="PASS" signature="Testone()[pri:0, instance:com.yaseenkhan.automation.Maven.MavenTest@4411d970]" name="Testone" duration-ms="9312" started-at="2020-11-02T11:33:35Z" finished-at="2020-11-02T11:33:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testone -->
+      </class> <!-- com.yaseenkhan.automation.Maven.MavenTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
